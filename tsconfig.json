@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outFile": "./dist/physics-lib.js",
+    "allowJs": true
+  },
+  "include": ["src/**/*.ts"],
+  "extends": "./node_modules/decentraland-ecs/types/tsconfig.json"
+}
